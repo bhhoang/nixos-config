@@ -16,7 +16,5 @@
     ./modules/packages.nix
     ./modules/session_variables.nix
   ];
-
-  programs.home-manager.enable = true;
 }
 
